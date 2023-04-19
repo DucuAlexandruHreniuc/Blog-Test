@@ -1,0 +1,11 @@
+  <div id="ajaxContent">
+    <p>it works</p>
+  </div>
+  <script>
+  var Webflow = Webflow || [];
+  Webflow.push(function() {
+    $.get('https://cdn.rawgit.com/alvarotrigo/fullPage.js/master/examples/simple.html', function(data) {
+      $('#ajaxContent').append(data);
+    });
+  });
+  </script>
