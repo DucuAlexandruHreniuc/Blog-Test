@@ -1,4 +1,3 @@
-<style>
 /*! CSS Used from: https://blog.telios.ro/hs-fs/hub/7573374/hub_generated/template_assets/38495001574/1653326027811/Website-theme-final/css/blog.min.css */
 .row-fluid{width:100%;*zoom:1;}
 .row-fluid:after,.row-fluid:before{display:table;content:"";}
@@ -335,4 +334,3 @@ li.has-submenu:hover>.submenu{visibility:visible;opacity:1;transition:visibility
 @font-face{font-family:"Open Sans";font-weight:600;font-style:normal;font-display:swap;src:url("http://127.0.0.1:5500/_hcms/googlefonts/Open_Sans/600.woff2") format("woff2"), url("http://127.0.0.1:5500/_hcms/googlefonts/Open_Sans/600.woff") format("woff");}
 @font-face{font-family:"Open Sans";font-weight:400;font-style:normal;font-display:swap;src:url("http://127.0.0.1:5500/_hcms/googlefonts/Open_Sans/regular.woff2") format("woff2"), url("http://127.0.0.1:5500/_hcms/googlefonts/Open_Sans/regular.woff") format("woff");}
 @font-face{font-family:"Open Sans";font-weight:700;font-style:normal;font-display:swap;src:url("http://127.0.0.1:5500/_hcms/googlefonts/Open_Sans/700.woff2") format("woff2"), url("http://127.0.0.1:5500/_hcms/googlefonts/Open_Sans/700.woff") format("woff");}
-</style>
